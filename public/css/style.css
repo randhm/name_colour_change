@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: 'PFDinTextCompPro-Bold';
-  src: url('/css/PFDinTextCompPro-Bold.eot') format('embedded-opentype');
+  src: url('public/css/PFDinTextCompPro-Bold.eot') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -2839,7 +2839,7 @@ PZtw1IAVy7H++QBHTVjzK6yDDuGo5Z6hmAz3BMZkcm/ub7Kw3sg2+Vhh5JtirDIamSYusk0b2P8e
 09Y+aB80p0OjIW9kiNK379w/AYTnqWj1uSSNqmSNquoaVTU0qmpqVNXWqMrSqMrRqMrTqApqVBXo
 OFNfY6uhxlaRxlYjja1ija3GGltNNLaaamw103GpOUaljVhlujhro3F2msZZO/Wt9hpnHXR+7ahj
 V2eNuS6IjSLqqvEwReNhFiKhBi3QMeQ2/bV3rv5bgVvXhle07bT1Xb0VVHj1NAPtW4QWLUftbqVa
-jjr3muT/A4VmgnkAAA==) format('woff'), url('/css/PFDinTextCompPro-Bold.ttf')  format('truetype'), url('/css/PFDinTextCompPro-Bold.svg#PFDinTextCompPro-Bold') format('svg');
+jjr3muT/A4VmgnkAAA==) format('woff'), url('public/css/PFDinTextCompPro-Bold.ttf')  format('truetype'), url('public/css/PFDinTextCompPro-Bold.svg#PFDinTextCompPro-Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
